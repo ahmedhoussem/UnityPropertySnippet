@@ -1,5 +1,5 @@
 # UnityPropertySnippet
-Just a small snippet to add to Visual Studio that i use to save some time when creating properties :)
+Just a small snippet to add to Visual Studio that i use to save some time when creating properties in Unity :)
 
 # How to add to Visual Studio
 - Put the propu.snippet file in the folder : " [Visual Studio Path]\VC#\Snippets\1033\Visual C# "
