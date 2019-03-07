@@ -9,6 +9,6 @@ Just a small snippet to add to Visual Studio that i use to save some time when c
 
 Now writing "propu" and pressing tab should look like this
 
-(PS : After you're do press Ctr + M + M to close the #region ;D )
+(PS : After you're done press Ctr + M + M to close the #region ;D )
 
 ![Alt text](Preview.gif)
